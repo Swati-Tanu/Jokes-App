@@ -2,7 +2,7 @@
 
 ### This is a Jokes App and is made using DOM mostly promises, async-await and fetch APIs.
 
-A simple app that displays different jokes everytime you click on "Next Joke". The jokes are fetched with the help of APIs. To get response promises as well as async-await used. 
+A simple app that displays different jokes everytime you click on "Next Joke". The jokes are fetched with the help of APIs. To get response promises as well as async-await are used. 
 
 ## Getting Started
 
